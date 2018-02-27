@@ -1,1 +1,3 @@
 # hellogit
+**Bold**
+*italic*
